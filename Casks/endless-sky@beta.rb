@@ -1,9 +1,8 @@
 cask "endless-sky@beta" do
-  version "0.11.2"
-  sha256 "338f139a790f55a41444b77bd8361bd9f21f3f5a010f52421596ffd4391e55ef"
+  version "0.11.3"
+  sha256 "94ee383b541cec3b8acc5d9866c8e97c05fdca4a5ae439d59eb832b03dda1580"
 
-  url "https://github.com/endless-sky/endless-sky/releases/download/v#{version}/Endless-Sky-v#{version}.dmg",
-      verified: "github.com/endless-sky/endless-sky/"
+  url "https://github.com/endless-sky/endless-sky/releases/download/v#{version}/Endless-Sky-v#{version}.dmg"
   name "Endless Sky Unstable"
   desc "Space exploration, trading, and combat game"
   homepage "https://endless-sky.github.io/"
