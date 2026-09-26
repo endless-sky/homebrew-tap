@@ -3,7 +3,6 @@ cask "endless-sky-high-dpi@beta" do
   sha256 "fa56f54bf455700353a9a3434bb3c54fed32143ec19f02161e4be57dae070c0a"
 
   url "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v#{version}.tar.gz",
-      verified: "github.com/endless-sky/endless-sky-high-dpi/"
   name "Endless Sky High-DPI Unstable"
   desc "High-DPI plugin for Endless Sky"
   homepage "https://endless-sky.github.io/"

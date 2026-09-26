@@ -3,7 +3,6 @@ cask "endless-sky" do
   sha256 "338f139a790f55a41444b77bd8361bd9f21f3f5a010f52421596ffd4391e55ef"
 
   url "https://github.com/endless-sky/endless-sky/releases/download/v#{version}/Endless-Sky-v#{version}.dmg",
-      verified: "github.com/endless-sky/endless-sky/"
   name "Endless Sky"
   desc "Space exploration, trading, and combat game"
   homepage "https://endless-sky.github.io/"
